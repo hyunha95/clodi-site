@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.clodi.app",
+      "sha256_cert_fingerprints": ["91:A8:FE:42:59:CD:A9:33:79:D7:64:E0:C7:74:EC:C0:AC:D3:E6:F9:09:E9:BC:34:C1:09:1D:EB:5A:19:EC:67"]
+    }
+  }
+]
